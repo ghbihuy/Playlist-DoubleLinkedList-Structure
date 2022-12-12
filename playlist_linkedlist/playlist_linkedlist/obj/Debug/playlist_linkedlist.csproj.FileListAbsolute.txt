@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\bin\Debug\playlist_linkedlist.exe.config
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\bin\Debug\playlist_linkedlist.exe
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\bin\Debug\playlist_linkedlist.pdb
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.Playlist.resources
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.Properties.Resources.resources
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.exe
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.pdb
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\source\repos\playlist_linkedlist\playlist_linkedlist\obj\Debug\playlist_linkedlist.csproj.ResolveComReference.cache
